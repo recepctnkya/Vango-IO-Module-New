@@ -1,0 +1,10 @@
+SDcard enable
+motor kontrol yazilimi eklenecek
+dil secenegi ekleenece
+isvecce ekllenecek.
+
+7 inc ekran yazilimi ayaga kaldirilacak.
+io modul yazilimina cikislari giris uzerinden kontrol edebilme ozelligi ekleme.
+dım guncellemelerı senkronıze olacakç
+rgb tarafı sync edilecek.
+sadece tablet ve io modul baglantisi yapacak.

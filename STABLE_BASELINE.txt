@@ -1,0 +1,6 @@
+STABLE BASELINE — field firmware paired with Display4.3-v0-30.
+Frozen: 2026-07-26
+Port: COM5
+
+Locked: panel_seq / CAN 0x110, MQTT io_config_set, RS485 climate,
+water ADC cal (clean rising / dirty rising), dimmers.

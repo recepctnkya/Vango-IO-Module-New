@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "IOModule-v0-60 (aktif geliştirme)"
+		}
+	],
+	"settings": {
+		"idf.customExtraVars": {
+			"IDF_TARGET": "esp32s3"
+		}
+	}
+}
